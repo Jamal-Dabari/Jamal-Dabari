@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @Jamal-Dabari
 - Web and Mobile Development
 Technologies:
-Java
+# Java
   - Spring
   - SpringBoot
   - Maven
-Python
+# Python
   - Flask
   - Django
  
-HTML
-CSS
-JavaScript
+# HTML
+# CSS
+# JavaScript
 
 
 <!---
