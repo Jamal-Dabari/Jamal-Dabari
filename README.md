@@ -3,6 +3,7 @@
 Backend-focused software engineer.
 
 🎓 CS @ East Stroudsburg University (May 2026)
+
 🌍 Based in US
 
 ## What I'm into
