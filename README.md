@@ -2,10 +2,6 @@
 
 Backend-focused software engineer.
 
-🎓 CS @ East Stroudsburg University (May 2026)
-
-🌍 Based in US
-
 ## What I'm into
 
 Backend systems, JVM internals, and the kind of problems where the
